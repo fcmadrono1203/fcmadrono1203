@@ -1,16 +1,22 @@
-## Hi there 👋
+#👋 Hi there, I’m Florie Ann Madroño!
 
-<!--
-**fcmadrono1203/fcmadrono1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- 🎓 I’m a BSIT student passionate about coding, design, and learning new tech.
+- 🌱 Currently learning **web development**.
+- 💡 I enjoy working on creative and practical projects that help others.
+- ⚙️ I’m exploring GitHub to build my portfolio and collaborate with other developers :)).
 
-Here are some ideas to get you started:
+### 🚀 Projects & Goals
+- 🛠️ Working on projects involving frontend development and API integration
+- 🎯 Goal: Become a full-stack developer and tech entrepreneur.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Let’s Connect!
+- 📫 Email: 20210021924@my.xu.edu.ph
+- 🧑‍💻 GitHub: [github.com/fcmadrono1203](https://github.com/fcmadrono1203)
+
+### ⚡ Fun Facts
+- ☕ I can’t code without coffee :<
+- 🎶 I love listening to music while working YEAAAHHH.
+- 💬 Ask me about tech, startups, or creative projects!
+  
+⭐ *Thanks for visiting my profile! Have a great day!* 🌸
