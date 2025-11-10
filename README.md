@@ -18,5 +18,7 @@
 - ☕ I can’t code without coffee :<
 - 🎶 I love listening to music while working YEAAAHHH.
 - 💬 Ask me about tech, startups, or creative projects!
+- 🧺 I love organizing creative events and I run a small laundry business called Florie Laundry!✨
+
   
 ⭐ *Thanks for visiting my profile! Have a great day!* 🌸
